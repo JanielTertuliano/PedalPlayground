@@ -16108,6 +16108,13 @@
 	},
 	{
 		"Brand": "Joyo",
+		"Name": "Baatsin",
+		"Width": 4.92,
+		"Height": 3.2,
+		"Image": "joyo-baatsin.png"
+	},
+	{
+		"Brand": "Joyo",
 		"Name": "R-09 Vision",
 		"Width": 5.12,
 		"Height": 4.43,
