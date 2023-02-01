@@ -31927,5 +31927,12 @@
 		"Width": 4.68,
 		"Height": 2.38,
 		"Image": "zvex-woollymammoth-vexter.png"
+	},
+	{
+		"Brand": "Mvave",
+		"Name": "Chocolate",
+		"Width": 8.35,
+		"Height": 1.42,
+		"Image": "mvave-chocolate.png"
 	}
 ]
