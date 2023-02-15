@@ -20538,6 +20538,13 @@
 		"Image": "mosky-golden-horse.png"
 	},
 	{
+		"Brand": "Mosky",
+		"Name": "Mini C4",
+		"Width": 1.86,
+		"Height": 3.66,
+		"Image": "mini-c4.png"
+	},
+	{
 		"Brand": "Mr. Black",
 		"Name": "Ambience",
 		"Width": 2.62,
